@@ -3,7 +3,6 @@
 **Software Engineer | Data Enthusiast | Product Builder**
 
 📍 Paris, France & Ho Chi Minh, Vietnam  
-📧 adamaly.shiraz@outlook.fr  
 
 ---
 
@@ -16,8 +15,8 @@ I'm a highly passionate software engineer with a strong focus on data-driven sol
 ## 🛠️ Technical Stack
 
 - **Frontend:** React/Typescript
-- **Backend:** , Python (FastAPI, Flask), Serverless (AWS Lambda), Go (Begineer)
-- **Cloud & DevOps:** AWS, GCP (only cloud run/job and pub/sub), Kubernetes (Beginner), Docker, Terraform, Circle CI, Helm
+- **Backend:** Python (FastAPI, Flask), Serverless Framework, Go (Begineer)
+- **Cloud & DevOps:** AWS, GCP (only cloud run/job and pub/sub), Kubernetes (Beginner), Docker, Terraform, Circle CI, Helm, Git
 - **Data & AI:** Neo4j, SQL, Pytorch, MLflow, LangGraph, LLMs.
 - **Other:** Web scraping
 
