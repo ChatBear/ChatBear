@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Shiraz Adamaly
 
-**Software Engineer | Data Enthusiast | Product Builder**
+**Software Engineer |  Product Builder**
 
 📍 Paris, France & Ho Chi Minh, Vietnam  
 
@@ -8,7 +8,7 @@
 
 ## About Me
 
-I'm a highly passionate software engineer with a strong focus on data-driven solutions and product development. My experience spans early-stage startups, consulting, and public sector innovation teams, where I've built robust web, scalable cloud infrastructure, and advanced data pipelines. I thrive in collaborative environments, working closely with clients and end-users to deliver impactful, user-centric products.
+I'm a highly passionate software engineer with a focus on data-driven solutions and product development. My experience spans early-stage startups, consulting, and public sector innovation teams, where I've built robust web, scalable cloud infrastructure, and advanced data pipelines. I thrive in collaborative environments, working closely with clients and end-users to deliver impactful, user-centric products.
 
 ---
 
